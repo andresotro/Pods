@@ -14,7 +14,7 @@ spec:
 
       app: app1
 
-  replicas: 1
+  replicas: 3
 
   template:
 
